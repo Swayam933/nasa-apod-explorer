@@ -1,6 +1,6 @@
 // Replace with your own key from https://api.nasa.gov/ for higher rate limits.
 // DEMO_KEY works out of the box but is limited to ~30 requests/hour.
-const API_KEY = "DEMO_KEY";
+const API_KEY = "gFKL4ooMOlgJTbLZiRUBFUvHs1qhQibWvjX1ucGc"; //This is my API key obtained by signing up. And don't copy or reuse this
 const BASE_URL = "https://api.nasa.gov/planetary/apod";
 
 const searchForm = document.getElementById("search-form");
